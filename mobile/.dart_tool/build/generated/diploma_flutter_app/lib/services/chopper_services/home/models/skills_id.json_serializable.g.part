@@ -1,0 +1,15 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+SkillsId _$SkillsIdFromJson(Map<String, dynamic> json) {
+  return SkillsId(
+    id: json['id'] as int,
+    title: json['title'] as String ?? '',
+  );
+}
+
+Map<String, dynamic> _$SkillsIdToJson(SkillsId instance) => <String, dynamic>{
+      'id': instance.id,
+      'title': instance.title,
+    };

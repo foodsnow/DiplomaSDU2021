@@ -1,0 +1,4 @@
+#Thu May 13 04:15:15 ALMT 2021
+base.0=/Users/nursultanrzabekov/Desktop/flutter/flutter-diploma-project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
