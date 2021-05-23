@@ -1,0 +1,1 @@
+MTCNN and InceptionResnetV1 models were fetched from https://github.com/timesler/facenet-pytorch with some changes. MNIST dataset were fetched from http://yann.lecun.com/exdb/mnist/
